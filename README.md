@@ -1,4 +1,4 @@
-# Laravel 10 匯入 CSV 檔案前檢查欄位資料是否已經存在以避免重複
+# Laravel 11 匯入 CSV 檔案前檢查欄位資料是否已經存在以避免重複
 
 透過匯入 CSV 檔案前檢查欄位資料是否已經存在以避免重複，避免資料的重複寫入導致結果不符合預期。
 
@@ -34,5 +34,5 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/5D1kSFI.gif)
+![](https://i.imgur.com/7YyyzRf.gif)
 > 欄位資料完全重複則僅存一筆
